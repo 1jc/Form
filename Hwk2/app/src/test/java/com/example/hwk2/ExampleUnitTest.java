@@ -1,4 +1,4 @@
-package com.example.hello;
+package com.example.hwk2;
 
 import org.junit.Test;
 
